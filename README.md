@@ -1,4 +1,4 @@
-# Machine Learning Model Deployment CI/CD
+# Bank Loan Approval - Machine Learning Model Deployment CI/CD
 
 There is an increasing recognition that data science needs to go beyond small-scale experimentation to a large-scale implementation. In this repo, Rishabh Shrivas brings software engineering and data mining methodologies to data scientists, then applies these ideas by taking a simple business need through an entire life cycle—hosting a model, consuming it in a web application, and setting up its CI/CD pipeline. Rishabh begins by explaining the methodologies used in the course and how they are combined. He shows you where to begin in developing architecture and deploying a model, then explains how larger web applications may consume the model as a service. Rishabh covers how to stage your model and the app, as well as how to plan ahead with an overall roadmap. He concludes with thoughts on how to further applications of data science methodologies.
 
